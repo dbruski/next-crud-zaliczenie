@@ -1,6 +1,8 @@
 ## Projekt zaliczeniowy 
 Prosta aplikacja CRUD przygotowana przy pomocy Next'a i Prismy.
 Aplikacja umozliwia dodawanie samochodów do garazu, wyswietlanie, edycję i usuwanie.
+Dodatkowo został dodany przycisk 'refuel', który automatycznie uzupełnia status paliwa do 100%
+
 
 Ponizej kilka zdjęć z aplikacji
 ![plot](./home.png)
